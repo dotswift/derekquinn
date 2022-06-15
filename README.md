@@ -1,4 +1,4 @@
 - 👋 Hi, I’m derek quinn AKA dereq
-- 📲 iOS Developer
+- 📲 Senior iOS Developer
 - 💞️ Michigan
 - 📫 hello@derekquinn.com
